@@ -2,7 +2,7 @@
 
 <hr>
 
-**I am a 23 years old MSc Computer Engineering and Cybersecurity student at University Of Pisa, Italy.**
+**I am a 23 years old MSc Computer Engineering and Cybersecurity student at University of Pisa, Italy.**
 
 &nbsp;
 
