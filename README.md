@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="https://github.com/fraie98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fraie98&count_private=true&show_icons=true&theme=dark&hide=prs,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fraie98&count_private=true&show_icons=true&theme=dark&hide=prs,issues" alt="github stats" />
 </a>
 </div>
 
@@ -26,9 +26,11 @@ Follow me on Linkedin or visit my personal website:
 </a>
   </div>
 
-<!--  Important
-      Icons from:
+<!--  IMPORTANT
+      Icons from: https://icon-icons.com/it/
       Links:
+          https://icon-icons.com/it/icona/utilities-terminale/37688
+          https://icon-icons.com/it/icona/a-legato-linkedin-media-social/124259
       >>
 
 
