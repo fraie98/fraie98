@@ -12,24 +12,31 @@
 </a>
 </div>
 
-<!--<div align="center">
-<a href="https://github.com/fraie98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraie98&exclude_repo=fraie98.github.io&theme=dark&langs_count=3" />
-</a>
-</div>-->
+
 
 &nbsp;
 
 Follow me on Linkedin or visit my personal website:
 <div align="center">
 <a href="https://www.linkedin.com/in/fraie98/">
-  <img width=48px src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" />
+  <img width=48px src="img/linkedin.png" />
 </a>
 <a href="https://fraie98.github.io/">
-  <img width=48px src="https://cdn.icon-icons.com/icons2/384/PNG/512/utilities-terminal-icon_37688.png" />
+  <img width=48px src="img/site.png" />
 </a>
   </div>
 
+<!--  Important
+      Icons from:
+      Links:
+      >>
+
+
+<!--<div align="center">
+<a href="https://github.com/fraie98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraie98&exclude_repo=fraie98.github.io&theme=dark&langs_count=3" />
+</a>
+</div>-->
 <!--
 **fraie98/fraie98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
